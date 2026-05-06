@@ -3,6 +3,6 @@
   <app appid='kjcigiolkekegoomindipjcifokcjgio'>
     <updatecheck crtimestamp='0'
                  version='1.3.0'
-                 codebase='https://github.com/digitalninjaservices/Extension-Chrome/releases/download/1.4.0/g2g-access-control.crx'/>
+                 codebase='https://github.com/digitalninjaservices/Extension-Chrome/releases/download/1.5.0/g2g-access-control.crx'/>
   </app>
 </gupdate>
