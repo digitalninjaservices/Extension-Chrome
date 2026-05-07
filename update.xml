@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='kjcigiolkekegoomindipjcifokcjgio'>
     <updatecheck crtimestamp='0'
-                 version='1.5.1'
+                 version='1.5.2'
                  codebase='https://github.com/digitalninjaservices/Extension-Chrome/releases/download/1.5.1/g2g-access-control.crx'/>
   </app>
 </gupdate>
